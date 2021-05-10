@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "AI in a Day",
+    "Language": "English",
+    "Files": [
+      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/solliancenet/tech-immersion-data-ai/master/ai-exp3/README.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/solliancenet/tech-immersion-data-ai/master/ai-exp4/README.md",
+        "Order": 2
+      },
+      
+    ]
+  }
+]
+  
+  
